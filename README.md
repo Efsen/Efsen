@@ -17,7 +17,7 @@
 <br />
 <br />
 ###GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Efsen=anuraghazra&theme=dark&show_icons=true)
+  <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arsentieva&show_icons=true&hide_border=true" />
 
 <!---
 Efsen/Efsen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
