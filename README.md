@@ -16,9 +16,11 @@
 
 <br />
 <br />
+
 ### GitHub Stats
   <img align="left" alt="Kaan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Efsen&show_icons=true&hide_border=true&theme=dark" />
-
+<br />
+<br />
 <!---
 Efsen/Efsen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
